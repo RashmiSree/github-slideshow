@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Step outside your comfort zone  - Be BRAVE! 
 Use the left arrow to go back!
